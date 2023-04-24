@@ -1,5 +1,5 @@
-@import "./abstracts/variables";
-@import "./abstracts/variables";
+@import"./_abstracts/variables";
+@import "./_responsive/responsive";
 * {
     margin: 0;
     padding: 0;
@@ -854,4 +854,3 @@ font-family: $estilo-principal;
 }
 
 
-@import "./_responsive/responsive";
